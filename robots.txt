@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sharifbetoch062-maker.github.io/kashisatta-com-docs/sitemap.xml
